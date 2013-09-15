@@ -6,6 +6,10 @@ AUTHOR
 
 	Pavel Tsakalidis [ http://pavel.gr | p@vel.gr ]
 
+DESCRIPTION
+
+	This script breaks down a mysqldump file into one-file-per-table.
+
 USAGE
 
 	--in [sql dump] --out [output folder] --force --postfix-time "d-m-Y" --postfix-name [some text] --ignore [ignore-table1,ignore-table2,...] --only [export-table1,export-table2,...] --list
