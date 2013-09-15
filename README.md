@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 NAME
 
 	MySQL Database Dump Splitter v0.0.1
@@ -25,9 +24,3 @@ EXAMPLES
 	php dbsplit.php --in /tmp/data.sql --out /tmp/tables --force --only table1,table2
 	php dbsplit.php --in /tmp/data.sql --list
 	php dbsplit.php --in /tmp/data.sql --out /tmp/tables --postfix-time "d-m-Y_H-i" --postfix-text myexporttext
-=======
-mysqldbsplit
-============
-
-MySQL Dump Splitter
->>>>>>> 70c224458dd9557622de1a0a56b34de946aed43d
